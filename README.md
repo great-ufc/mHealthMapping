@@ -2,4 +2,4 @@
 
 You can access the systematic mapping results in: 
 
-Link: https://docs.google.com/spreadsheets/d/1F_X8VWKLKvmD-Xx9cucxslWUANtbwzUaZrBf2E59yic/edit?usp=sharing.
+Link: <a href="https://docs.google.com/spreadsheets/d/1F_X8VWKLKvmD-Xx9cucxslWUANtbwzUaZrBf2E59yic/edit?usp=sharing" target="_blank">Mapping Data</a>.
