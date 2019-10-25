@@ -1,5 +1,7 @@
 ## What is the state of the art for mobile applications focusing on elderly healthcare
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Graphical Abstract")
+
 > **Background**: Population aging brings more significant concern about how due care will be provided to the elderly soon. Thus, the development of technological solutions has been gaining more prominence. Joining this scenario to the growing use of mobile devices for daily activities, the question arises: how have mobile applications for elderly health been treated in the literature?
 > **Objectives**: We propose a systematic mapping conducted by health and software engineering researchers to provide an overview of studies that address mobile applications for elderly healthcare.
 > **Results**: We found a total of 2533 papers and, after applying the eligibility criteria, we got 159. We observed aspects related to the digital health initiative type, using the classification proposed by the World Health Organization, the elderly profile prioritized by the application, the empirical validation type, and the contribution of this study to software engineering.
